@@ -1,4 +1,4 @@
-# [ProShop eCommerce Platform](https://xander-proshop.herokuapp.com/)
+# [Bitshop eCommerce Platform](https://xander-proshop.herokuapp.com/)
 
 # Description
 
